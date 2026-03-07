@@ -1,2 +1,7 @@
+C:\JavaSpringBootProject\src\main\java\com\example\dogservice\controller\DogController.java
+C:\JavaSpringBootProject\src\main\java\com\example\dogservice\repository\DogRepository.java
+C:\JavaSpringBootProject\src\main\java\com\example\dogservice\service\DogImageScheduler.java
+C:\JavaSpringBootProject\src\main\java\com\example\dogservice\model\Gender.java
 C:\JavaSpringBootProject\src\main\java\com\example\dogservice\model\Dog.java
 C:\JavaSpringBootProject\src\main\java\com\example\dogservice\DogServiceApplication.java
+C:\JavaSpringBootProject\src\main\java\com\example\dogservice\exception\DogNotFoundException.java
